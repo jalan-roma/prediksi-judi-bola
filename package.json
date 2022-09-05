@@ -2,12 +2,15 @@
   "name": "prediksi-judi-bola",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "Prediksi Judi Bola Terbaik dan Terpercaya",
   "keywords": [
-    "syntax",
-    "theme"
+    "Judi Bola",
+    "Agen Bola SBOBET",
+    "agenbola",
+    " judibola",
+    "prediksi parlay bola"
   ],
-  "repository": "https://github.com/atom/prediksi-judi-bola",
+  "repository": "https://github.com/jalan-roma/prediksi-judi-bola",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
